@@ -1,0 +1,3 @@
+1. Open Command Prompt
+2. Change the directory to this driectory
+3. Call "python newton_raphson_implied_volatility.py" (without quotes)
